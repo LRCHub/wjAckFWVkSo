@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "J. Cole - Only You (Official Audio)",
+  "base_artist": "J. Cole",
+  "createdAt": "2026-02-18T13:01:56.551472Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Jodeci Freestyle (feat. J. Cole)",
+      "artist": "Drake feat. J. Cole",
+      "has_synced": true,
+      "path": "select/01_Jodeci_Freestyle_(feat._J._Cole)_Drake_feat._J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Jodeci Freestyle (feat. J. Cole)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/02_Jodeci_Freestyle_(feat._J._Cole)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The London (feat. J. Cole & Travis Scott)",
+      "artist": "Young Thug feat. J. Cole & Travis Scott",
+      "has_synced": true,
+      "path": "select/03_The_London_(feat._J._Cole_&_Travis_Scott)_Young_Thug_feat._J._Cole_&_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The London (feat. J. Cole & Travis Scott)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/04_The_London_(feat._J._Cole_&_Travis_Scott)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love and War (feat. J. Cole)",
+      "artist": "Rita Ora",
+      "has_synced": true,
+      "path": "select/05_Love_and_War_(feat._J._Cole)_Rita_Ora.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stressed (with J. Cole & T-Shyne)",
+      "artist": "Young Thug feat. J. Cole & T-Shyne",
+      "has_synced": true,
+      "path": "select/06_Stressed_(with_J._Cole_&_T-Shyne)_Young_Thug_feat._J._Cole_&_T-Shyne.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stressed (feat. J. Cole & T-Shyne)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/07_Stressed_(feat._J._Cole_&_T-Shyne)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Freedom of Speech (with J. Cole)",
+      "artist": "Dreamville feat. J. Cole",
+      "has_synced": true,
+      "path": "select/08_Freedom_of_Speech_(with_J._Cole)_Dreamville_feat._J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Freedom of Speech (feat. J. Cole)",
+      "artist": "Dreamville",
+      "has_synced": true,
+      "path": "select/09_Freedom_of_Speech_(feat._J._Cole)_Dreamville.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Heaven’s EP (with J. Cole)",
+      "artist": "Dreamville feat. J. Cole",
+      "has_synced": true,
+      "path": "select/10_Heaven’s_EP_(with_J._Cole)_Dreamville_feat._J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Heavens EP (feat. J. Cole)",
+      "artist": "Dreamville",
+      "has_synced": true,
+      "path": "select/11_Heavens_EP_(feat._J._Cole)_Dreamville.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stick (with JID & J. Cole feat. Kenny Mason & Sheck Wes)",
+      "artist": "Dreamville feat. JID, J. Cole, Kenny Mason & Sheck Wes",
+      "has_synced": true,
+      "path": "select/12_Stick_(with_JID_&_J._Cole_feat._Kenny_Mason_&_Sheck_Wes)_Dreamville_feat._JID,_J._Cole,_Kenny_Mason_&_Sheck_Wes.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stick (feat. Kenny Mason, Sheck Wes, JID, & J. Cole)",
+      "artist": "Dreamville",
+      "has_synced": true,
+      "path": "select/13_Stick_(feat._Kenny_Mason,_Sheck_Wes,_JID,_&_J._Cole)_Dreamville.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Planez (ft J. Cole)",
+      "artist": "Jeremih",
+      "has_synced": true,
+      "path": "select/14_Planez_(ft_J._Cole)_Jeremih.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "24K of Gold (feat. J. Cole)",
+      "artist": "Big Sean feat. J. Cole",
+      "has_synced": false,
+      "path": "select/15_24K_of_Gold_(feat._J._Cole)_Big_Sean_feat._J._Cole.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Another Day - M.J. Cole Remix",
+      "artist": "Modestep & Popeska",
+      "has_synced": true,
+      "path": "select/16_Another_Day_-_M.J._Cole_Remix_Modestep_&_Popeska.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Prove It (feat. J. Cole)",
+      "artist": "Big K.R.I.T.",
+      "has_synced": true,
+      "path": "select/17_Prove_It_(feat._J._Cole)_Big_K.R.I.T..lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Hells Kitchen (Feat. J. Cole & Bas)",
+      "artist": "DJ Khaled",
+      "has_synced": true,
+      "path": "select/18_Hells_Kitchen_(Feat._J._Cole_&_Bas)_DJ_Khaled.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "They Ready (feat. J Cole, Big K.R.I.T., Kendrick Lamar)",
+      "artist": "DJ Khaled",
+      "has_synced": true,
+      "path": "select/19_They_Ready_(feat._J_Cole,_Big_K.R.I.T.,_Kendrick_Lamar)_DJ_Khaled.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Just Begun (feat. Jay Electronica, J. Cole & Mos Def)",
+      "artist": "Reflection Eternal",
+      "has_synced": true,
+      "path": "select/20_Just_Begun_(feat._Jay_Electronica,_J._Cole_&_Mos_Def)_Reflection_Eternal.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Only You (with Burna Boy)",
+      "artist": "J. Cole, Burna Boy",
+      "has_synced": false,
+      "path": "select/pl_01_Only_You_(with_Burna_Boy)_J._Cole,_Burna_Boy.txt"
+    }
+  ]
+}
